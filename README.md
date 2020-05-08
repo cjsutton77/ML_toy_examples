@@ -44,5 +44,5 @@ x_train = np.random.uniform(0,np.pi/2,500)
 
 ### This small toy example runs in about one minute.  Here's what you get - not perfect but not bad!
 
-[!meh](https://github.com/cjsutton77/ML_toy_examples/blob/master/Unknown-4.png)
+![meh](https://github.com/cjsutton77/ML_toy_examples/blob/master/Unknown-4.png)
 
